@@ -1,0 +1,16 @@
+{
+  "name": "tests-tdd-bdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mocha.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.2",
+    "sinon": "^9.0.2"
+  }
+}
